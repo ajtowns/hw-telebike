@@ -1,0 +1,3 @@
+;; list libraries here.  order matters as this sets the search order
+(component-library "../bdale/sym")
+(component-library "sym")
